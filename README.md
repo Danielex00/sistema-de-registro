@@ -5,3 +5,5 @@
 para ejecutar el Sistema Debes Poner:
 
 ```npm install react```
+
+sistema de registro 2
